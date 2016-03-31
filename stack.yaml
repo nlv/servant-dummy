@@ -1,0 +1,9 @@
+flags:
+  time-locale-compat:
+    old-locale: false
+packages:
+- '.'
+- location:
+    git: https://www.github.com/krisajenkins/elm-export
+    commit: 2a026e4c3a93a18006595636e783955223f9b98e
+resolver: nightly-2015-06-17
